@@ -7,7 +7,7 @@ class Person:
         self.storage_tendency = storage_tendency
         self.investment_success_rate = investment_success_rate
 
-    def invest(proj)
+    def invest(proj):
         pass
 
 class Project:
@@ -15,5 +15,5 @@ class Project:
         self.investor = investor
         self.cost = cost
 
-    def invest(proj)
+    def invest(proj):
         pass

@@ -11,9 +11,6 @@ class Person:
         pass
 
 class Project:
-    def __init__(self, investor, cost):
+    def __init__(self, investor, capital):
         self.investor = investor
-        self.cost = cost
-
-    def invest(proj):
-        pass
+        self.capital = capital
